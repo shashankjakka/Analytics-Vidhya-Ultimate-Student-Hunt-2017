@@ -131,7 +131,7 @@ preds = reg.predict(test_X).astype('int')
 # In[16]:
 
 lr = pd.DataFrame({"predicted":preds})
-lr.to_csv('/Users/shashank/Desktop/LR_predictions.csv',index=False)
+lr.to_csv('LR_predictions.csv',index=False)
 
 
 # In[ ]:
