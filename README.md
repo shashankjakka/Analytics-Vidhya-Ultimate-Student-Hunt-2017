@@ -10,3 +10,6 @@ One such problem is a resource allotment problem. On the basis of how many peopl
 ## Result:
 
 Score on **Public Leaderboard** : 	68.41( **Rank 17** )
+
+
+**Scource** https://datahack.analyticsvidhya.com/contest/student-hunt-2017/
